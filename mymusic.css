@@ -1,0 +1,96 @@
+.searchbar{
+    
+   margin-right: 350px;
+   /* background-color: transparent; */
+}
+.logo{
+    align-items: center;
+    display: flex;
+}
+.song{
+    align-items: center;
+    margin-top: auto;
+}
+ .col-md-2 h5{
+     
+     color: rgb(1, 1, 1);
+    
+ }
+ /* .card{
+   /* border: transparent; */
+ 
+
+body{
+    background-color: black;
+}
+
+h3{
+    color: aliceblue;
+    margin-top: 30px;
+}
+
+.img img{
+    height: 200px;
+}
+
+.c img:hover{
+    scale: 1.1;
+    
+}
+.circle-image{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+ .e{
+    margin-top: 30px;
+ }
+ .img{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+ }
+ .footer-text {
+    text-decoration: none;
+    color: white;
+ }
+ .footer-text:hover{
+    color: white;
+ }
+ .thick-line{
+    height: 10px;
+    width: 100%;
+    background-color: rgb(226, 224, 224);
+ }
+ .m{
+    color:white;
+ }
+ i{
+ color: white;
+ font-size: 30px;
+ margin-left: 40px;
+ 
+
+ }
+ .font{
+  text-align: center;
+   
+    
+ }
+ .fa-brands{
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 50px;
+ }
+ 
+ 
+ .button1{
+   display: flex;
+   justify-content: center;
+   margin-bottom: 20px;
+   margin-top: 10px;
+ }
+ .mb-3e{
+   margin-left: 20px;
+ }
+ 
